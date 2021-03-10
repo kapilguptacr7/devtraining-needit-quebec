@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_text_indexes">
+    <pa_m2m_indicator_text_indexes action="INSERT_OR_UPDATE">
+        <indicator display_value="Number of Open Cases">831e2af0d70331004f1e82285e6103c9</indicator>
+        <sys_class_name>pa_m2m_indicator_text_indexes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-09 18:51:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8fff478a7f5a03001e37bdc8adfa91fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number of Open Cases.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_m2m_indicator_text_indexes_8fff478a7f5a03001e37bdc8adfa91fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-09 18:51:41</sys_updated_on>
+        <text_index_configuration display_value="Cases.Open">deef478a7f5a03001e37bdc8adfa9150</text_index_configuration>
+    </pa_m2m_indicator_text_indexes>
+</record_update>
